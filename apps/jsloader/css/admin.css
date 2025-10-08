@@ -1,0 +1,16 @@
+/**
+ * SPDX-FileCopyrightText: 2017 Nextcloud GmbH and Nextcloud contributors
+ * SPDX-License-Identifier: AGPL-3.0-or-later
+ */
+
+#jsloader-section label,
+#jsloader-snippet,
+#jsloader-url {
+	display: block;
+	max-width: 550px;
+	width: 100%;
+}
+
+#jsloader-snippet {
+	height: 200px;
+}

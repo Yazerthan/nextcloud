@@ -1,0 +1,20 @@
+OC.L10N.register(
+    "files_archive",
+    {
+    "User" : "მომხმარებელი",
+    "Password" : "პაროლ",
+    "bytes" : "ბაიტები",
+    "unknown" : "უცნობი",
+    "Disconnect storage" : "საცავის გათიშვა",
+    "Archive" : "არქივი",
+    "OK" : "კარგი",
+    "Created" : "შექმნილია",
+    "Forbidden" : "აკრძალულია",
+    "Not Found" : "არაა ნაპოვნი",
+    "Conflict" : "კონფლიქტი",
+    "Internal Server Error" : "შიდა სერვერის შეცდომა",
+    "Error" : "შეცდომა",
+    "Yes" : "კი",
+    "No" : "არა"
+},
+"nplurals=2; plural=(n!=1);");

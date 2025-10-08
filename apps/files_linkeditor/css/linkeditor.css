@@ -1,0 +1,21 @@
+.oc-dialog .urlvisit {
+	margin-bottom: 25px;
+}
+.oc-dialog .edit {
+	padding-left: 10px;
+	padding-right: 10px;
+	min-width: 300px;
+	max-width: 400px;
+}
+.oc-dialog .edit.push-bottom {
+	margin-bottom: 15px;
+}
+.oc-dialog .edit .urldisplay {
+	word-wrap: break-word;
+}
+.oc-dialog .edit label {
+	display: block;
+}
+.oc-dialog .edit .space-top {
+	margin-top: 5px;
+}
